@@ -1,0 +1,12 @@
+setproctitle
+PyYAML
+# ansible
+redis
+retask
+python-daemon
+bunch
+# documentation
+sphinx
+sphinx-argparse
+netaddr
+munch
